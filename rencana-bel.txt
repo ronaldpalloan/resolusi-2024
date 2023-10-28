@@ -2,7 +2,6 @@
 2. ipsum
 3. sit
 4. dolor
-5. reactjs
-6. vuejs
+5. html
+6. css
 7. tailwind
-8. bootstrap
