@@ -4,3 +4,5 @@
 4. dolor
 5. reactjs
 6. vuejs
+7. tailwind
+8. bootstrap
